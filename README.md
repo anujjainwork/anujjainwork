@@ -9,10 +9,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://github.com/anujjainwork/anujjainwork/blob/main/gifs/car.gif" alt="Cool GIF" width="333"/>
-</p>
-
 <!-- Quote Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
