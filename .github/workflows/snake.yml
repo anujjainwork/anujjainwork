@@ -8,12 +8,12 @@ on:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: actions/upload-artifact@v3
         with:
           github_user_name: anujjainwork
           outputs: dist/snake.svg
