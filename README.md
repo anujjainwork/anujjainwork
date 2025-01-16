@@ -37,41 +37,17 @@
 
 </div>
 
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujjainwork&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" 
-       alt="GitHub Stats" 
-       style="height: 300px; width: 47%; object-fit: cover;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujjainwork&theme=tokyonight&hide_border=false" 
-       alt="GitHub Streak" 
-       style="height: 300px; width: 52%; object-fit: cover;" />
-</div>
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=anujjainwork&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=9" alt="GitHub Trophies" />
-
-### 🔝 Top Contributed Repo
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anujjainwork&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" 
-       alt="Contributor Stats" 
-       style="height: 300px; width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujjainwork&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-       alt="Top Languages" 
-       style="height: 300px; width: 49%;" />
-</div>
-
 <!-- Contribution Graph -->
 <h2>📈 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujjainwork&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
-
 <h2>🐍 Contribution Snake</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/TheVinaySagar/TheVinaySagar/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anujjainwork/anujjainwork/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/anujjainwork/anujjainwork/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/anujjainwork/anujjainwork/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
