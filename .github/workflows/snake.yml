@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{github.anujjainwork}}
+          github_user_name: anujjainwork
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
