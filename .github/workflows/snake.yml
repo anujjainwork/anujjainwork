@@ -11,14 +11,12 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
-      - name: Generate Snake Animation
-        uses: actions/upload-artifact@v4
+        uses: actions/checkout@v2
+      - name: Generate Snake Game
+        uses: Platane/snk@v3
         with:
-          github_user_name: anujjainwork
-          outputs: dist/snake.svg
-      - name: Upload Snake Animation
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-animation
-          path: dist/snake.svg
+          github_user_name: ${{github.anujjainwork}}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4
