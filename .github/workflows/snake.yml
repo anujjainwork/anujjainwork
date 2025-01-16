@@ -1,0 +1,24 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: anujjainwork
+          outputs: dist/snake.svg
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-animation
+          path: dist/snake.svg
