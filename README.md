@@ -17,7 +17,6 @@
 </p>
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/anujjainwork)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-jain-work)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FFA500.svg?style=plastic&logo=google-chrome&logoColor=white)](https://anujjainwork.github.io/resume-portfolio)
 
